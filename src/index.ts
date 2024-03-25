@@ -1,2 +1,2 @@
-import * as Components from './components'
+import Components from './components'
 export default Components
