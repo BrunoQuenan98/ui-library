@@ -1,7 +1,1 @@
-import Button from "./Button"
-import Button2 from "./Button"
-
-export default {
-    Button,
-    Button2
-}
+export { default as Button } from './Button';
