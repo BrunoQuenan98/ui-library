@@ -1,0 +1,25 @@
+{
+  "name": "manibru",
+  "version": "1.0.0",
+  "description": "ui components ",
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.69",
+    "typescript": "^5.4.3",
+    "@rollup/plugin-commonjs": "^25.0.4",
+    "@rollup/plugin-node-resolve": "^15.2.1",
+    "@rollup/plugin-typescript": "^11.1.4",
+    "rollup": "^3.29.4",
+    "rollup-plugin-dts": "^6.0.2",
+    "rollup-plugin-postcss": "^4.0.2"
+  }
+}
